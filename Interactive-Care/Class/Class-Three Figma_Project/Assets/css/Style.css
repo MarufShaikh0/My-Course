@@ -22,7 +22,7 @@ body{
 } 
 .container{
     max-width: 1320px;
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
 }
 .header-section .header-area{
@@ -30,6 +30,7 @@ body{
    flex-wrap: wrap;
    justify-content: space-between;
    align-items: center;
+   
 }
 .header-section .header-area .logo a img{
    height: 30px;
@@ -74,6 +75,26 @@ body{
 /* Header-Section End */
 
 /*  Hero Section Start */
+
+.hero-container{
+   width: 1440px;
+}
+.hero-section .hero-area{
+   margin: 0 auto;
+   width: 90%;
+}
+.hero-section .hero-area .hero-title{
+   background: green;
+   width: 691px;
+   height: 216px;
+   font-family: "Playfair Display", serif;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 80px;
+   line-height: 120%;
+   letter-spacing: 0.02em;
+   color: #094B72;
+}
 
 
 
