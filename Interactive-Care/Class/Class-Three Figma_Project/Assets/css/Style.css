@@ -7,9 +7,6 @@
  padding: 0;
  box-sizing: border-box;
 }
-body{
-   background-color: chocolate;
-}
 
 /* Common Css End */
 
@@ -75,16 +72,18 @@ body{
 /* Header-Section End */
 
 /*  Hero Section Start */
+.hero-section{
+   background: #F9F8F9;
+}
 
 .hero-container{
-   width: 1440px;
+   max-width: 1440px;
 }
 .hero-section .hero-area{
    margin: 0 auto;
    width: 90%;
 }
 .hero-section .hero-area .hero-title{
-   background: green;
    width: 691px;
    height: 216px;
    font-family: "Playfair Display", serif;
@@ -94,9 +93,85 @@ body{
    line-height: 120%;
    letter-spacing: 0.02em;
    color: #094B72;
+   margin-top: 149px;
+}
+.hero-section .hero-area .hero-content .hero-text{
+   width: 578px; height: 88px;
+   font-family: 'Plus Jakarta Sans';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 24px;
+   line-height: 158%;
+   letter-spacing: 0.5px;
+   color: #4F4F4F;
+   padding: 40px 0 36px 0;
+}
+.hero-section .hero-area .hero-content .btn {
+   padding-top: 36px;
+   display:block ;
+
+}
+.hero-section .hero-area .hero-content .btn button{
+  background-color: #094B72;
+  width: 190px;
+  height: 80px;
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140.5%;
+  letter-spacing: 0.08em;
+  color: #F9F8F9;
+}
+.hero-section .hero-area .hero-company .h-c-text{
+   width: 540px;
+   height: 31px;
+   font-family: 'Plus Jakarta Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 22px;
+   line-height: 140.5%;
+   letter-spacing: 0.04em;
+   color: #8B8C8C;
+   padding: 100px 0 50px 0;
+}
+.hero-section .hero-area .hero-company .h-c-logo{
+   width: 238px;
+   height: 88px;
+}
+.hero-section .hero-area .hero-company .h-c-logo .logo-1 {
+   margin-bottom:25px ;
+ 
+}
+.hero-section .hero-area .hero-company .h-c-logo .logo-1 .one .img-1{
+   width: 90px;
+   height: 28px;
+}
+.hero-section .hero-area .hero-company .h-c-logo .logo-1 .two .img-2{
+   width: 90px;
+   height: 28px;
+   margin-left: 50px;
+}
+.hero-section .hero-area .hero-company .h-c-logo .logo-2 .three .img-3{
+   width: 90px;
+   height: 28px;
+   
+}
+.hero-section .hero-area .hero-company .h-c-logo .logo-2 .four .img-4{
+   width: 90px;
+   height: 28px;
+   margin-left: 50px;
 }
 
-
-
+.hero-section .hero-area .hero-image{
+   position: relative;
+}
+.hero-section .hero-area .hero-image img{
+   position: absolute;
+   left: 700px;
+   bottom: 157px;
+   width: 449px;
+   height: 500px;
+}
 
 /*  Hero Section End */
