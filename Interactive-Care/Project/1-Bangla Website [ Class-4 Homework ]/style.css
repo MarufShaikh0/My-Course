@@ -2,7 +2,6 @@
 .news-section{
   background: white;
   width: 1000px;
-  border: 1px solid red;
 }
 .news-section .news-area{
   margin: 0 auto;
@@ -13,26 +12,22 @@
   
 }
 .news-section .news-area .headline h1{
-  border: 1px solid black;
   max-width: 817px;
   font-size: 30px;
   line-height: 90px;
 }
 .news-section .news-area .headline p{
- border: 1px solid black;
  max-width: 150px;
  font-size: 15px;
  font-weight: 700;
 }
 .news-section .news-area .headline span{
-  border: 1px solid black;
   font-size: 12px;
   color: #272424;
   padding: 20px 0;
   display: block;
 }
 .news-section .news-area .headline .logo{
-  border: 1px solid black;
   max-width: 120px;
   position: absolute;
   left: 630px;
@@ -52,7 +47,5 @@
   margin-left: 180px;
 }
   
-
-
 /* news-section End  */
 
