@@ -1,4 +1,48 @@
-/*    Start  */
+*{
 
-/*    End  */
+}
+body{
+ margin: 0;
+ min-height: 100vh;
+ background-color: #222;
+ font-family: "Roboto", sans-serif;
+}
+
+/*  Navbar Start  */
+.navbar{
+ position: sticky; top: 0; z-index: 1000;
+}
+.navbar .navbar-container{
+ display: flex;
+ align-items: center;
+ padding-top: 1rem;
+}
+
+.navbar .navbar-container .nav-left{
+ display: flex;
+}
+.navbar .navbar-container .nav-left .logo{border-radius: 50%; margin: 0 1rem;}
+.navbar .navbar-container .nav-left .nav-name {
+ font-size: 20px; line-height: 1.5rem; letter-spacing: 0.2rem; color: #FFFFFF; font-weight: 700;
+}
+
+.navbar .navbar-container .nav-right{
+ margin-left: auto;
+}
+.navbar .navbar-container .nav-right .nav-item-container{
+ display: flex; flex-wrap: wrap;
+}
+.navbar .navbar-container .nav-right .nav-item-container .nav-item{
+ margin: 1rem; list-style: none;
+}
+.navbar .navbar-container .nav-right .nav-item-container .nav-item .nav-item-link{
+ text-decoration: none; color: #FFFFFF;
+}
+.navbar .navbar-container .nav-right .nav-item-container .nav-item .nav-item-link:hover{
+ color: #3b82fc;;
+}
+
+
+
+/*   Navbar End  */
 
