@@ -17,7 +17,6 @@ body{
  align-items: center;
  padding-top: 1rem;
 }
-
 .navbar .navbar-container .nav-left{
  display: flex;
 }
@@ -25,7 +24,6 @@ body{
 .navbar .navbar-container .nav-left .nav-name {
  font-size: 20px; line-height: 1.5rem; letter-spacing: 0.2rem; color: #FFFFFF; font-weight: 700;
 }
-
 .navbar .navbar-container .nav-right{
  margin-left: auto;
 }
@@ -41,8 +39,16 @@ body{
 .navbar .navbar-container .nav-right .nav-item-container .nav-item .nav-item-link:hover{
  color: #3b82fc;;
 }
-
-
-
 /*   Navbar End  */
+
+/* Hero-Section Start */
+.container{
+ width: 100%; margin-left: auto; margin-right: auto;
+}
+
+
+
+
+/* Hero-Section End */
+
 
