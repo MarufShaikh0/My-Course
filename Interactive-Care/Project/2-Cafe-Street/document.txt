@@ -91,6 +91,69 @@ Responsive Width-Height-Body-* & Image :
   }
  
 
+Navbar Document :
+ nav left :
+   logo_coffe 
+    width: 150px;
+    height: 30px;
+    left: 135px;
+    top: 41px;
+ nav-Middle:
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #FF912B;
+
+Hero-Section :
+ hero-left-title:
+  position: absolute;
+  width: 489px;
+  left: 135px;
+ 
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #2F2105;
+
+ hero-left-description : 
+   width: 393px;
+   height: 54px;
+   left: 135px;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 27px;
+   color: #7E7D7A;
+
+ Button-Area:
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   padding: 12px 32px;
+   gap: 10px;
+   
+   background: #2F2105;
+   box-shadow: 0px 4px 32px rgba(223, 195, 124, 0.25);
+   border-radius: 33px;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
