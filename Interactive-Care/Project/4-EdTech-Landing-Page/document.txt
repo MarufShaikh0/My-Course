@@ -92,31 +92,6 @@ Responsive Width-Height-Body-* & Image :
  
 
 
-.hero-left {
-   /* আপনার আগের width এখানে থাকবে */
-   width: 50%; /* অথবা আপনার প্রয়োজন অনুযায়ী অন্য width */
-  
-   /* Flexbox যোগ করছি */
-   display: flex;
-   flex-direction: column; /* ভেতরের জিনিসগুলো (main image container এবং four image container) উপর নিচে সাজাবে */
-   gap: 20px; /* main image container এবং four image container এর মাঝে 20px উপরে নিচে ফাঁকা */
-   /* অথবা row-gap: 20px; ব্যবহার করতে পারেন */
-  
-   /* align-items যোগ করতে পারেন যদি ভেতরের জিনিসগুলোকে আনুভূমিকভাবে অ্যালাইন করতে চান */
-   /* align-items: center; */
-  }
-  
-  /* hero-left-main-image-container এবং hero-left-four-image-container এর বর্তমান ডিসপ্লে Flex থাকায় তাদের ভেতরের আইটেমগুলো তাদের নিজেদের মধ্যে পাশাপাশি সাজানো আছে, সেটা ঠিক থাকবে */
-  
-  /* .container .hero-container .hero-left .hero-left-main-image-container {
-    display: flex; /* এটা আগে থেকেই ছিল, ঠিক আছে */
-    justify-content: center; /* এটা আগে থেকেই ছিল, ঠিক আছে */
-  } */
-  
-  /* .container .hero-container .hero-left .hero-left-four-image-container {
-    display: flex; /* এটা আগে থেকেই ছিল, ঠিক আছে */
-    justify-content: center; /* এটা আগে থেকেই ছিল, ঠিক আছে */
-    gap: 10px; /* চারটা ছোট ছবির মাঝে আগে থেকেই গ্যাপ ছিল, সেটাও ঠিক থাকবে */
-  } */
+
 
 
