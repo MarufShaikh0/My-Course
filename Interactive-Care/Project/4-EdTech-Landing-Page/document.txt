@@ -90,6 +90,490 @@ Responsive Width-Height-Body-* & Image :
     height:auto;
   }
  
+Project Data :
+  Hero-section :
+   title :
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.235em;
+    color: #2F2B71;
+
+    text :
+     font-style: normal;
+     font-weight: 700;
+     font-size: 70px;
+     line-height: 116.5%;
+     color: #5F596E;
+
+    description :
+     font-style: normal;
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 31px;
+     letter-spacing: 0.05em;
+     color: #000000;
+  
+  Teacher-Section :
+   Congratulations
+    background: #FFFDFA;
+    border-radius: 14px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #04004D;
+    /* Your admission completed */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #898E92;
+
+   Card:
+    font-family: 'Google Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #898E92;
+
+   card-3: 
+   /* Teachers Statistics */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #04004D;
+
+Teacher-Section: 
+ h2: 
+  /* Get the Best Class by the Best Teachers */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 62px;
+  color: #04004D;
+ p:
+  /* Get your best class and gain the great thing from the best and well qualified experienced teachers all over the world and get shinny. We are a unique training provider willing to give you all the skills and experience you need to fulfil your future career */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #336C61;
+ a:
+   /* Read more */
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   text-align: center;
+   color: #336C61;
+
+Features-Section: 
+  /* Experienced Teacher */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  color: #1E1E1E;
+
+ /* We teach in small groups with experienced, supportive staff who are trained to understand some of the problems our students face. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #757575;
+
+course-Section :
+  /* Featured Course */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 35px;
+  color: #000000;
+
+ /* Everything you need to when you're looking */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #BDBDBD;
+
+ /* A Complete Web development */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 26px;
+  color: #000000;
+
+ /* Technology > Web development */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #878787;
+
+ /* 23.5 hours */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #4D4D52;
+
+ /* 52 Articles */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  color: #4D4D52;
+
+ /* $450 */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #000000;
+
+learning Section :
+ /* SIMPLE LEAENING PLATFORM */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #2F2B71;
+ /* A quality place for distance learning */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 72px;
+  color: #101130;
+ 
+  /* A best and cheapest way of getting know learning to make a better tomorrow */
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 32px;
+   color: #67687B;
+
+ /* Start Free Trial */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #FFFEFE;
+  background: #54B8FF;
+
+  /* Base */
+
+News-chat-Section :
+  /* newsletter */
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 22px;
+   letter-spacing: 6px;
+   text-transform: uppercase;
+   color: #8785AA;
+
+ /* Subscribe Our Newsletter */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  color: #1B1B1B;
+
+ /* Enter you mail .. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  text-transform: lowercase;
+  color: #8D8A7A;
+
+ /* Why should I need your news letter */
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 12px;
+   line-height: 18px;
+   letter-spacing: 0.01em;
+   color: #FFFFFF;
+
+ /* Because we always want our student to be updated with latest information. 😊 */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+  color: #000000;
+
+
+ /* Write message .. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.02em;
+  color: #356E63;
+Footer Section :
+ /* Home */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7A7A7E;
+
+ /* Pages */
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.01em;
+  color: #1C1C1D;
+
+
+
+
+
+
+
+
+
+Past Code :
+  <!-- News Section Start 
+  <section class="container">
+    <div class="news-container">
+      <div class="news-left">
+        <div class="news-text">newsletter</div>
+        <div class="news-title">Subscribe Our <br> Newsletter</div>
+        <div class="text-area-container">
+          <input type="text" placeholder="Enter you mail ..">
+          <img src="./assets/Icon/news-texrarea-icon.png" >
+        </div>
+      </div>
+
+     
+      <div class="news-right">
+        <div class="news-chatbox">
+            <div class="chat-question">Why should I need your  news letter</div>
+            <div class="chat-answer-container">
+              <div class="chat-answer">Because we always want our student to be updated with latest information. 😊</div>
+              <img src="./assets/Icon/news-chatbox-chatanswer.png" alt="">
+            </div>
+            <div class="chat-input">
+              <input type="text">
+              <img src="./assets/Icon/news-chatbox-input-icon.png" alt="">
+            </div>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+  News Section End -->
+        /*  News Section Start */
+     .news-container{
+           background-color: #ADE5E5;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           height: 100vh;
+     }
+     .news-container .news-left{
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           border: 1px solid red;
+           
+           
+     }
+     .news-container .news-text{
+           font-family: 'Poppins';
+           font-style: normal;
+           font-weight: 500;
+           font-size: 18px;
+           line-height: 22px;
+           letter-spacing: 6px;
+           text-transform: uppercase;
+           color: #8785AA;
+           
+     }
+     .news-container .news-title{
+           font-family: 'Poppins';
+           font-style: normal;
+           font-weight: 600;
+           font-size: 42px;
+           line-height: 52px;
+           color: #1B1B1B;   
+     }
+     .text-area-container{
+           display: flex;
+           align-items: center;
+           position: relative;
+     }
+     .text-area-container input{
+           font-family: 'Poppins';
+           font-style: normal;
+           font-weight: 500;
+           font-size: 15px;
+           line-height: 22px;
+           letter-spacing: 0.2px;
+           text-transform: lowercase;
+           color: #8D8A7A;
+           padding: 1rem 4rem;
+     }
+     .text-area-container img{
+           position: absolute;
+           background-color: #12294B;
+           padding: .8rem .7rem;
+           right: 10px; 
+     }
+     
+     .news-container .news-right{
+           border: 1px solid black;
+           
+     }
+     .news-right .news-chatbox{
+           display: flex;
+           flex-direction: column;
+           gap: 2rem;
+           background-color:#63AFB5 ;
+           width: ;
+           /* height: 50vh; */
+           /* padding: 3rem 1rem; */
+         
+           
+     }
+     .news-right .chat-question{
+           font-family: 'Poppins';
+           font-style: normal;
+           font-weight: 600;
+           font-size: 12px;
+           line-height: 18px;
+           letter-spacing: 0.01em;
+           color: #FFFFFF;
+           background-color: greenyellow;
+           width: 200px;
+           border-radius: 0 5px 10px 15px;
+           padding: 10px;
+          
+     }
+     .news-right .chat-answer-container{
+           width: 200px;
+           background-color: white;
+           font-size: 12px;
+           letter-spacing: 0.1rem;
+           line-height: 2rem;
+           border-radius: 15px 15px 0 15px;
+           padding: 10px;
+           
+           
+           
+     }
+     
+     /*  News Section End */
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
 
 
 
