@@ -1,0 +1,22 @@
+
+
+*{
+ 
+ 
+}
+
+body{
+     min-height: 100vh;
+}
+
+/*   Start  */
+container{
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+
+
+/*  End  */
+
